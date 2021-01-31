@@ -1,0 +1,227 @@
+.logo{
+    margin-top: 1%;
+    height: auto;
+    width: 25%;
+    margin-bottom: 1%;
+}
+header{
+    color: black;
+    height: 50%;
+    width: 98%;
+    border:3px solid #333333;
+    border-radius: 15px;
+    padding-left: 1%;
+    padding-right: 2%;
+    margin: auto;
+}
+.propaganda{
+    position: relative;
+    float: left;
+    text-align: left;
+    padding-left: 2%;
+}
+nav{
+    font-size: 20px;
+    background-color: #333333);
+    margin: auto; 
+    border-radius: 15px;
+    border: 3px solid #333333;
+}
+ul li{
+    margin-bottom: 3%;
+}
+.banner{
+    float: right;
+    left: 3%;
+    margin-top: -25%;
+    position: sticky;
+    border:2px solid black;
+    border-radius: 10px;
+    width: 40%;
+    height: auto;
+    margin-right: 2%;
+    margin-bottom: 2%;
+}
+.cadastro{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: none;
+    text-decoration: none;
+}
+.cad{
+    position: relative;
+    float: none;
+    margin-top: 5%;
+    left: 3%;
+}
+button{
+    background-color: rgb(51, 50, 50);
+    border-radius: 25px;
+    position: relative;
+}
+a{ 
+    color: black;
+} 
+#divBusca{
+    border:solid 2px #333333;
+    border-radius:10px;
+    width:98%;
+    height:50px;
+    margin:auto;
+    margin-bottom: 1%;
+} 
+  #txtBusca{
+    float:left;
+    background-color:transparent;
+    padding-left:5px;
+    font-size:30px;
+    border:none;
+    text-align: left;
+    margin-top: auto;
+    width: 75%;
+    height: 100%;
+} 
+  #btnBusca{
+    font-size: 25px;
+    border:none;
+    float:right;
+    height:46px;
+    border-radius:0 7px 7px 0;
+    width:25%;
+    font-weight:bold;
+    background:#333333;
+    color: #9d9d9d;
+}
+.xiaomi{
+    height: 30px;
+    width: auto;
+}
+.samsung{
+    height: 30px;
+    width: auto;
+}
+.apple{
+    height: 30px;
+    width: auto;
+}
+.marcas{
+    margin-top: 2%;
+    float: right;
+    margin-right: 3% ;
+}
+.panel-group{
+    border: 3px solid #333333;
+    border-radius: 15px;
+    width: 98%;
+    margin: auto;
+}
+footer{
+    margin-top: 1%;
+    height: auto;
+    width: 100%;
+    background-color: #333333;
+    color: #9d9d9d;
+    border: 3px solid #333333;
+    text-align: center;
+}
+input {
+	margin-left: 35% ;
+	height: 38px;
+	width: 30%;
+	border-radius: 25px;
+	border: 3px solid black;
+	font-size: 16px;
+	padding:5px 20px;
+	background-color:#333333;
+	color:#9d9d9d;
+	margin-top: 1%;
+
+}
+.acessar{
+    width: 15%;
+	font-size: 16px;
+	background-color:#006d8e;
+	margin-left: 42%;
+}
+.login{
+    text-align: center;
+}
+h1{
+text-align: left;
+color:#222222;
+}
+
+a{
+text-decoration: none;
+text-align: center;
+}
+.botaocad{
+    width: 15%;
+	font-size: 16px;
+	background-color:#006d8e;
+	margin-left: 42%;
+}
+.politic{
+    width: auto;
+    height: 35px;
+}
+.politica{
+    margin-left: 36%;
+}
+.aindanao{
+    margin-left: 36%;
+    margin-bottom: 0%;
+}
+.log{
+    margin: 0px;
+    padding: 0px;
+}
+
+.dropbtn {
+    background-color: #222222;
+    color: #9d9d9d;
+    padding: 16px;
+    font-size: 20px;
+    border: none;
+    width: 200px;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: relative;
+  background-color: #222222;
+  min-width: 160px;
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: #006d8e;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {
+    background-color: #ddd;
+}
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+.dropdown:hover .dropbtn {
+    background-color: #222222;
+}
+iframe{
+	height: 300px;
+	width: 98%;
+	margin: auto;
+	border: 5px solid black;
+	border-radius: 15px;
+	background-color: white;
+	margin-bottom: 1%;
+	margin-top: 1%;
+}

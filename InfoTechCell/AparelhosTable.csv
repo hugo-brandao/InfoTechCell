@@ -1,0 +1,46 @@
+ID_aparelhos,Marca,NomeProduto,VersaoProduto,Valor
+1,Samsung,"Galaxy A",Quantum,3000
+2,Samsung,"Galaxy A","01 Core",700
+3,Samsung,"Galaxy A",02s,1200
+4,Samsung,"Galaxy Note","20 Ultra",7000
+5,Samsung,"Galaxy A",12,1200
+6,Samsung,"Galaxy A",21,1100
+7,Samsung,"Galaxy S",20,3400
+8,Samsung,"Galaxy A",31,1400
+9,Samsung,"Galaxy A",41,1400
+10,Samsung,"Galaxy A",42,2600
+11,Samsung,"Galaxy A",51,1600
+12,Samsung,"Galaxy A",71,2100
+13,Samsung,"Galaxy F",41,1400
+14,Samsung,"Galaxy M",01,700
+15,Samsung,"Galaxy M",11,1000
+16,Apple,"Iphone 12",Basic,7000
+17,Apple,"Iphone 12",Mini,5500
+18,Apple,"Iphone 12",Pro,11000
+19,Apple,"Iphone 12","Pro Max",13000
+20,Apple,"Iphone SE",2020,3000
+21,Apple,"Iphone 11",Basic,4400
+22,Apple,"Iphone 11",Pro,7000
+23,Apple,"Iphone 11","Pro Max",9000
+24,Apple,"Iphone XR",Basic,4000
+25,Apple,"Iphone XS",Basic,5000
+26,Apple,"Iphone XS",Max,5500
+27,Apple,"Iphone 8",Basic,3600
+28,Apple,"Iphone 8",Plus,3500
+29,Apple,"Iphone X",Basic,3000
+30,Apple,"Iphone 7",Plus,2000
+31,Xiaomi,"Black Shark",3,5600
+32,Xiaomi,"Black Shark",3S,6100
+33,Xiaomi,"Mi 10",Basic,4600
+34,Xiaomi,"Mi 10",Lite,3300
+35,Xiaomi,"Mi 10",Pro,5000
+36,Xiaomi,"Mi 10",Ultra,5500
+37,Xiaomi,"Mi 10",Youth,2200
+38,Xiaomi,"Mi 10","T Basic",5500
+39,Xiaomi,"Mi 10","T Lite",2200
+40,Xiaomi,"Mi 10","T Pro",7000
+41,Xiaomi,"Mi Note 10",Lite,2400
+42,Xiaomi,"Poco C3",Basic,900
+43,Xiaomi,"Poco F2",Pro,4000
+44,Xiaomi,"Poco M2",Basic,1200
+45,Xiaomi,"Redmi 10X",Basic,2000
